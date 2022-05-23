@@ -1,0 +1,8 @@
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Reference48\Reference48\obj\Debug\Reference48.csproj.AssemblyReference.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Reference48\Reference48\obj\Debug\Reference48.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Reference48\Reference48\obj\Debug\Reference48.csproj.CoreCompileInputs.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Reference48\Reference48\bin\Debug\Reference48.exe.config
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Reference48\Reference48\bin\Debug\Reference48.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Reference48\Reference48\bin\Debug\Reference48.pdb
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Reference48\Reference48\obj\Debug\Reference48.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Reference48\Reference48\obj\Debug\Reference48.pdb

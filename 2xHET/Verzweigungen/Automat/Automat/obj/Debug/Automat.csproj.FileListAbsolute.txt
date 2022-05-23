@@ -1,0 +1,8 @@
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Verzweigungen\Automat\Automat\bin\Debug\Automat.exe.config
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Verzweigungen\Automat\Automat\bin\Debug\Automat.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Verzweigungen\Automat\Automat\bin\Debug\Automat.pdb
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Verzweigungen\Automat\Automat\obj\Debug\Automat.csproj.AssemblyReference.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Verzweigungen\Automat\Automat\obj\Debug\Automat.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Verzweigungen\Automat\Automat\obj\Debug\Automat.csproj.CoreCompileInputs.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Verzweigungen\Automat\Automat\obj\Debug\Automat.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Verzweigungen\Automat\Automat\obj\Debug\Automat.pdb

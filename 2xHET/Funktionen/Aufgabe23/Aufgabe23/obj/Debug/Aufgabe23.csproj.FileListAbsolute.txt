@@ -1,0 +1,8 @@
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen0\Aufgabe23\Aufgabe23\bin\Debug\Aufgabe23.exe.config
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen0\Aufgabe23\Aufgabe23\bin\Debug\Aufgabe23.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen0\Aufgabe23\Aufgabe23\bin\Debug\Aufgabe23.pdb
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen0\Aufgabe23\Aufgabe23\obj\Debug\Aufgabe23.csproj.AssemblyReference.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen0\Aufgabe23\Aufgabe23\obj\Debug\Aufgabe23.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen0\Aufgabe23\Aufgabe23\obj\Debug\Aufgabe23.csproj.CoreCompileInputs.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen0\Aufgabe23\Aufgabe23\obj\Debug\Aufgabe23.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen0\Aufgabe23\Aufgabe23\obj\Debug\Aufgabe23.pdb

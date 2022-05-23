@@ -1,0 +1,8 @@
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Schleifen\Schleife\Schleife\bin\Debug\Schleife.exe.config
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Schleifen\Schleife\Schleife\bin\Debug\Schleife.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Schleifen\Schleife\Schleife\bin\Debug\Schleife.pdb
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Schleifen\Schleife\Schleife\obj\Debug\Schleife.csproj.AssemblyReference.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Schleifen\Schleife\Schleife\obj\Debug\Schleife.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Schleifen\Schleife\Schleife\obj\Debug\Schleife.csproj.CoreCompileInputs.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Schleifen\Schleife\Schleife\obj\Debug\Schleife.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Schleifen\Schleife\Schleife\obj\Debug\Schleife.pdb

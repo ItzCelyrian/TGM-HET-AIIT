@@ -1,0 +1,8 @@
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Aufgabe48\Aufgabe48\bin\Debug\Aufgabe48.exe.config
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Aufgabe48\Aufgabe48\bin\Debug\Aufgabe48.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Aufgabe48\Aufgabe48\bin\Debug\Aufgabe48.pdb
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Aufgabe48\Aufgabe48\obj\Debug\Aufgabe48.csproj.AssemblyReference.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Aufgabe48\Aufgabe48\obj\Debug\Aufgabe48.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Aufgabe48\Aufgabe48\obj\Debug\Aufgabe48.csproj.CoreCompileInputs.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Aufgabe48\Aufgabe48\obj\Debug\Aufgabe48.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Funktionen\Aufgabe48\Aufgabe48\obj\Debug\Aufgabe48.pdb

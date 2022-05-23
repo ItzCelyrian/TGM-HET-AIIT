@@ -1,0 +1,8 @@
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Felder\Basis\Basis\bin\Debug\Basis.exe.config
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Felder\Basis\Basis\bin\Debug\Basis.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Felder\Basis\Basis\bin\Debug\Basis.pdb
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Felder\Basis\Basis\obj\Debug\Basis.csproj.AssemblyReference.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Felder\Basis\Basis\obj\Debug\Basis.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Felder\Basis\Basis\obj\Debug\Basis.csproj.CoreCompileInputs.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Felder\Basis\Basis\obj\Debug\Basis.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Felder\Basis\Basis\obj\Debug\Basis.pdb
