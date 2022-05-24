@@ -1,0 +1,11 @@
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\bin\Debug\Aufgabe1.exe.config
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\bin\Debug\Aufgabe1.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\bin\Debug\Aufgabe1.pdb
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.csproj.AssemblyReference.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.Form1.resources
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.Properties.Resources.resources
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.csproj.GenerateResource.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.exe
+C:\Users\itzce\Documents\GitHub\TGM-HET-AIIT\2xHET\Strings\Aufgabe1\Aufgabe1\obj\Debug\Aufgabe1.pdb
